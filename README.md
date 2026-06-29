@@ -26,16 +26,30 @@ Tener Python 3 instalado.
 Colocar paises.py en una carpeta.
 Abrir terminal en esa carpeta y ejecutar:
 
-
-bashpython paises.py
+```
+bash
+python paises.py
+```
 
 El archivo paises.csv se crea solo en la misma carpeta la primera vez que se ejecuta el programa.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Opciones del menú
+---
 
-OpciónDescripción1Mostrar todos los países2Agregar un nuevo país3Actualizar población o superficie4Buscar país por nombre (parcial o exacto)5Filtrar por continente, rango de población o superficie6Ordenar por nombre, población o superficie (asc/desc) — guarda en CSV7Ver estadísticas generales0Salir
+| Opción | Descripción |
+|--------|-------------|
+| 1 | Mostrar todos los países |
+| 2 | Agregar un nuevo país |
+| 3 | Actualizar población o superficie |
+| 4 | Buscar país por nombre (parcial o exacto) |
+| 5 | Filtrar por continente, rango de población o superficie |
+| 6 | Ordenar por nombre, población o superficie (asc/desc) — guarda en CSV |
+| 7 | Ver estadísticas generales |
+| 0 | Salir |
+
+---
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
