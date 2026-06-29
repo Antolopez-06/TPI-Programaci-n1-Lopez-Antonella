@@ -55,8 +55,8 @@ El archivo paises.csv se crea solo en la misma carpeta la primera vez que se eje
 
 # Ejemplos de uso
 
-Agregar un país
-
+### Agregar un país
+```
 Elegí una opcion: 2
 -- AGREGAR PAIS --
   Nombre: Italia
@@ -64,29 +64,33 @@ Elegí una opcion: 2
   Superficie en km2: 301340
   Continente: Europa
   [OK] Pais 'Italia' agregado.
+```
 
-Buscar por nombre parcial
-
+### Buscar por nombre parcial
+```
 Elegí una opcion: 4
   Nombre o parte del nombre: arg
   Se encontraron 1 resultado(s):
   N°   Nombre          Poblacion   Superficie km2  Continente
   1    Argentina      45,376,763        2,780,400  America
+```
 
-Filtrar por continente
-
+### Filtrar por continente
+```
 Elegí una opcion: 5  ->  1
   Continente: Europa
   (Muestra Alemania, Francia, Espana)
+```
 
-Ordenar y guardar en CSV
-
+### Ordenar y guardar en CSV
+```
 Elegí una opcion: 6  ->  2 (Poblacion)  ->  2 (Descendente)
   [OK] Datos guardados en 'paises.csv'.
   Paises ordenados por poblacion (descendente): ...
+```
 
-Estadísticas
-
+### Estadísticas
+```
 Elegí una opcion: 7
   Total de paises: 8
   Mayor poblacion : Estados Unidos (331893745 hab.)
@@ -96,3 +100,6 @@ Elegí una opcion: 7
   Paises por continente:
     America: 4
     Europa: 3
+```
+
+---
