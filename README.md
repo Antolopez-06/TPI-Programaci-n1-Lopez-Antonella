@@ -10,12 +10,12 @@ Aplicación de consola en Python 3 que gestiona un dataset de países del mundo.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Estructura del proyecto
+# Estructura del proyecto
 
 tpi-gestion-paises/
-├── paises.py        ← Código fuente principal
-├── paises.csv       ← Dataset (se genera automáticamente)
-└── README.md        ← Este archivo
+├── paises.py        <- Código fuente principal
+├── paises.csv       <- Dataset (se genera automáticamente)
+└── README.md        <- Este archivo
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
