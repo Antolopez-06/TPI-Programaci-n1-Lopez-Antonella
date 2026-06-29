@@ -1,21 +1,25 @@
 # TPI-Programación1-Lopez-Antonella
-TPI - Programación 1: Sistema de Gestión de Países
+
+## TPI: Sistema de Gestión de Países
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Descripción
 
 Aplicación de consola en Python 3 que gestiona un dataset de países del mundo. Lee y escribe datos desde un archivo CSV y ofrece un menú interactivo para agregar, actualizar, buscar, filtrar, ordenar y calcular estadísticas. El CSV se crea automáticamente si no existe.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🗂️ Estructura del proyecto
+#Estructura del proyecto
 
 tpi-gestion-paises/
 ├── paises.py        ← Código fuente principal
 ├── paises.csv       ← Dataset (se genera automáticamente)
 └── README.md        ← Este archivo
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-▶️ Cómo ejecutar
+# Cómo ejecutar
 
 
 Tener Python 3 instalado.
@@ -27,13 +31,15 @@ bashpython paises.py
 
 El archivo paises.csv se crea solo en la misma carpeta la primera vez que se ejecuta el programa.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧭 Opciones del menú
+# Opciones del menú
 
 OpciónDescripción1Mostrar todos los países2Agregar un nuevo país3Actualizar población o superficie4Buscar país por nombre (parcial o exacto)5Filtrar por continente, rango de población o superficie6Ordenar por nombre, población o superficie (asc/desc) — guarda en CSV7Ver estadísticas generales0Salir
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💡 Ejemplos de uso
+# Ejemplos de uso
 
 Agregar un país
 
