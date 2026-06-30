@@ -130,5 +130,5 @@ Link del Docs: https://docs.google.com/document/d/18p4vAOjFMN4RbFrHoZcREJztLed-M
 # Integrante: 
 Lopez Antonella Anahi
 
-Aclaración: El Trabajo Práctico Integrador (TPI) comenzó a desarrollarse junto con un compañero. Sin embargo, debido a que estuvo aproximadamente una semana sin responder los mensajes y, considerando la proximidad de la fecha límite de entrega, se decidió finalizar y presentar el trabajo de manera individual para garantizar su entrega en tiempo y forma.
+Aclaración: El Trabajo Práctico Integrador (TPI) comenzó a desarrollarse junto con un compañero. Sin embargo, debido a que estuvo aproximadamente una semana sin responder los mensajes y, considerando la proximidad de la fecha límite de entrega, se decidió realizar un TPI nuevo para presentar el trabajo de manera individual para garantizar su entrega en tiempo y forma.
 
